@@ -16,6 +16,7 @@ Git is free software
 Git  has a mutable index called stage
 </p>
 
+<p> Track the change</p>
 </template>
 <script>
 	console.log(xxx)

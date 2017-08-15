@@ -1,6 +1,10 @@
 <template>
 	<div>
+<<<<<<< HEAD
 	Creating things
+=======
+	Creating things
+>>>>>>> featurel
 	</div>
 
 </template>

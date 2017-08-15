@@ -21,11 +21,7 @@ Git  has a mutable index called stage
 <p> Track the change</p>
 <p> second chenge </p>
 <p> third change </p>
-<<<<<<< HEAD
 <a> Creating a New branch is quick AND simple.</a>
-=======
-<a> Creating a New branch is quick AND simple.</a>
->>>>>>> featurel
 </template>
 <script>
 	console.log(xxx)

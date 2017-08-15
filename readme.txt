@@ -11,6 +11,11 @@ Git is free software
 	Git is free software Distributed under the GPL
 
 </div>
+
+<p>
+Git  has a mutable index called stage
+</p>
+
 </template>
 <script>
 	console.log(xxx)

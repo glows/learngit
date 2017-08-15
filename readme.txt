@@ -17,7 +17,8 @@ Git  has a mutable index called stage
 </p>
 
 <p> Track the change</p>
-<div> second chenge </div>
+<p> second chenge </p>
+<p> third change </p>
 </template>
 <script>
 	console.log(xxx)

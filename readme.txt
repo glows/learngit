@@ -23,7 +23,7 @@ Git  has a mutable index called stage
 <script>
 	console.log(xxx)
 
-</script
+</script>
 
 <style>
 #app:
